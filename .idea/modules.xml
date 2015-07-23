@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/gkcx.iml" filepath="$PROJECT_DIR$/.idea/gkcx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HighExaminationAdmitQuery.iml" filepath="$PROJECT_DIR$/.idea/HighExaminationAdmitQuery.iml" />
     </modules>
   </component>
 </project>
-

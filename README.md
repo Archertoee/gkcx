@@ -11,3 +11,6 @@ HighExaminationAdmitQueryÊÇÓÃ²éÑ¯¸ß¿¼³É¼¨ºÍÂ¼È¡½á¹ûµÄ½Å±¾£¬»ùÓÚPython£¬¼òµ¥¸ßĞ§¡
 - ÏÂÔØÔ´Âë
 - ´ò¿ª `Score` ÎÄ¼ş¼ĞÀïÃæµÄ `Score.py` ÎÄ¼ş£¬ĞŞ¸Ä`get_result()`ÀïÃæ²ÎÊıÎª¶ÔÓ¦µÄÑ§ºÅºÍ³öÉúÄêÔÂ£¬Ö´ĞĞ` get_result()`£¬ÏàÓ¦½á¹û»áĞ´Èëµ½ `Score/score.txt` ÀïÃæ¡£
 - ´ò¿ª `Admit` ÎÄ¼ş¼ĞÀïÃæµÄ `HttpRequestTool.py`£¬ ĞŞ¸Ä `get_admit_result_by_number_and_birthday()`ÀïÃæµÄÏàÓ¦²ÎÊı£¬Ö´ĞĞ`get_admit_result_by_number_and_birthday()`, ÏàÓ¦½á¹û»áĞ´Èëµ½ `Amint/admit.txt` ÀïÃæ¡£
+
+##×Ô¶¨Òå²éÑ¯
+- `Admit`: ĞŞ¸Ä`Data.py`ÀïÃæµÄÑ§ºÅ·¶Î§`NUMBER_PREFIX`ºÍ³öÉúÄêÔÂ`BIRTHDAY_PREFIX`,ÔÚĞŞ¸Ä`HttpRequestTool.py`µÄ`get_admit_result_by_number_and_birthday`µÄ`cookie`ÎªÏàÓ¦µÄcookie£¬¿ÉÍ¨¹ıwww.5184.com»ñÈ¡
